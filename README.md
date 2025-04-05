@@ -1,7 +1,7 @@
 <table style="border-collapse: collapse;">
   <tr>
     <td valign="top">
-      <h3>HyoJeong <span style="font-size: 0.8em;">@yeoul0520</span></h3>
+      <h3>HyoJeong @yeoul0520</h3>
       <a href="https://youallone.tistory.com"><img src="https://img.shields.io/badge/youallone-E5511E?style=badge&logo=Tistory&logoColor=white"/></a>
       <a href="https://www.instagram.com/n_jj._.ly"><img src="https://img.shields.io/badge/instagram-d62976?style=badge&logo=Instagram&logoColor=white"/></a>
       <a href="mailto:dolphinstar021008@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=badge&logo=Gmail&logoColor=white&link=mailto:dolphinstar021008@gmail.com"/></a>
