@@ -1,11 +1,11 @@
-<table>
+<table border="0">
   <tr>
     <td valign="top">
-      <h3>HyoJeong @yeoul0520</h3>
+      <h3>HyoJeong</h3><h4>@yeoul0520</h4>
       <a href="https://youallone.tistory.com"><img src="https://img.shields.io/badge/youallone-E5511E?style=badge&logo=Tistory&logoColor=white"/></a>
       <a href="https://www.instagram.com/n_jj._.ly"><img src="https://img.shields.io/badge/instagram-d62976?style=badge&logo=Instagram&logoColor=white"/></a>
       <a href="mailto:dolphinstar021008@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=badge&logo=Gmail&logoColor=white&link=mailto:dolphinstar021008@gmail.com"/></a>
-      ![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sally55511)
+      <a href="https://solved.ac/sally55511"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sally55511&theme=dark"/></a>
     </td>
     <td>
       <img width="250" src="https://github.com/user-attachments/assets/fc34ab68-464e-4b9b-8fef-956fcbea1087" />
