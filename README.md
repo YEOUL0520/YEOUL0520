@@ -4,6 +4,8 @@
 <a href="mailto:dolphinstar021008@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=badge&logo=Gmail&logoColor=white&link=mailto:dolphinstar021008@gmail.com"/></a>
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sally55511)
 
+<img align="right" width="23" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
+
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoul0520&theme=buefy&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
