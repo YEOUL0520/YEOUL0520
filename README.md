@@ -5,7 +5,7 @@
 <a href="mailto:dolphinstar021008@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=badge&logo=Gmail&logoColor=white&link=mailto:dolphinstar021008@gmail.com"/></a>
 <a href="https://solved.ac/sally55511"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sally55511&theme=dark"/></a>
     <td>
-      <img align="right" width="200" src="https://github.com/user-attachments/assets/284ab64c-1a61-4e57-a433-1e9d67d73a91" />
+      <img align="right" width="250" src="https://github.com/user-attachments/assets/284ab64c-1a61-4e57-a433-1e9d67d73a91" />
     </td>
 
 ---
