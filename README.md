@@ -1,4 +1,4 @@
-<img align="right" width="300" src="https://github.com/user-attachments/assets/fc34ab68-464e-4b9b-8fef-956fcbea1087" />
+<img align="right" width="250" src="https://github.com/user-attachments/assets/fc34ab68-464e-4b9b-8fef-956fcbea1087" />
 
 ### HyoJeong @yeoul0520
 
