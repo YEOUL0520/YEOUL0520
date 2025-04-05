@@ -1,4 +1,4 @@
-<table border="0">
+<table>
   <tr>
     <td valign="top">
       <h3>HyoJeong</h3><h4>@yeoul0520</h4>
