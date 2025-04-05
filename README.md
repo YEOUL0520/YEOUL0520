@@ -1,4 +1,4 @@
-<table style="border: none;">
+<table style="border-collapse: collapse;">
   <tr>
     <td valign="top">
       <h3>HyoJeong <span style="font-size: 0.8em;">@yeoul0520</span></h3>
@@ -12,7 +12,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
