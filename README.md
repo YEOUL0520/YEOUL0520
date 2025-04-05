@@ -1,5 +1,5 @@
 <td>
-      <img align="right" width="220" src="https://github.com/user-attachments/assets/284ab64c-1a61-4e57-a433-1e9d67d73a91" />
+      <img align="right" width="300" src="https://github.com/user-attachments/assets/284ab64c-1a61-4e57-a433-1e9d67d73a91" />
     </td>
 
 ##HHH
