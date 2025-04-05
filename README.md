@@ -1,10 +1,10 @@
 ### HyoJeong @yeoul0520
 
+<img align="right" width="100" src="https://github.com/user-attachments/assets/7fe467e4-86cd-4c43-bdcf-c57ba28b5949" />
+
 <a href="https://youallone.tistory.com"><img src="https://img.shields.io/badge/youallone-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://www.instagram.com/n_jj._.ly"><img src="https://img.shields.io/badge/instagram-d62976?style=badge&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:dolphinstar021008@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=badge&logo=Gmail&logoColor=white&link=mailto:dolphinstar021008@gmail.com"/></a>
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sally55511)
-
-<img align="right" width="23" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
 
 ---
 
