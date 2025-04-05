@@ -1,5 +1,5 @@
 <td>
-      <img align="right" width="300" style="margin-top: 200px;" src="https://github.com/user-attachments/assets/284ab64c-1a61-4e57-a433-1e9d67d73a91" />
+      <img align="right" width="300" style="margin-top: 600px;" src="https://github.com/user-attachments/assets/284ab64c-1a61-4e57-a433-1e9d67d73a91" />
     </td>
 
 ### Hyo Jeong (@yeoul0520)
