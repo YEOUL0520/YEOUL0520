@@ -12,9 +12,6 @@
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoul0520&theme=github_dark_dimmed&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoul0520&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoul0520&theme=github_dark_dimmed&card_width=350&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
