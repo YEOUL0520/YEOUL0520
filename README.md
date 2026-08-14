@@ -1,5 +1,3 @@
-<img align="right" width="400" src="https://github.com/user-attachments/assets/284ab64c-1a61-4e57-a433-1e9d67d73a91" />
-
 ### 🐳 Hyo Jeong (@yeoul0520)
 
 <a href="https://youallone.tistory.com"><img src="https://img.shields.io/badge/youallone-E5511E?style=badge&logo=Tistory&logoColor=white"/></a>
@@ -7,25 +5,21 @@
 <a href="mailto:dolphinstar021008@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=badge&logo=Gmail&logoColor=white"/></a>
 ![](https://komarev.com/ghpvc/?username=YEOUL0520&color=689ff7&label=PROFILE+VIEWS)
 
-> B.S. in Information and Communication Engineering, Yeungnam University  
-> Undergraduate Researcher @ Multimedia Signal Processing Lab. (MSP Lab.), Yeungnam University  
-> Double Major in Computer Science  
-> Interested in **AI · Machine Learning · Mobile AI · Indoor Positioning**
-
----
-## 📝 Publications & Presentations
-
-| Date | Title | Venue | Authors |
-|---|---|---|---|
-| 2025 | **MagNavi: Geomagnetic Field-based Indoor Positioning**<br>지자계 기반 실내 측위 기법 | 2025년도 한국통신학회 추계종합학술발표회 | **Hyo Jeong Ryu**, Yun Ho Park, Su Min Yeom, Chan Ik Yun, Jae Hun Lee, Joon Kyu Lee, Young Deok Park |
-
-> **Keywords:** Geomagnetic Fingerprinting · MLP · Sensor Calibration · PDR · Indoor Positioning · Mobile Application
-
----
-
-## 🏆 Awards & Competitions
-
-<!-- 추후 추가 -->
+<table>
+  <tr>
+    <td width="68%" valign="middle">
+      <blockquote>
+        B.S. in Information and Communication Engineering, Yeungnam University<br>
+        Double Major in Computer Science<br>
+        Undergraduate Researcher @ Multimedia Signal Processing Lab. (MSP Lab.), Yeungnam University<br>
+        Interested in <b>AI · Machine Learning · Mobile AI · Indoor Positioning</b>
+      </blockquote>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img width="280" src="https://github.com/user-attachments/assets/284ab64c-1a61-4e57-a433-1e9d67d73a91" />
+    </td>
+  </tr>
+</table>
 
 ---
 
