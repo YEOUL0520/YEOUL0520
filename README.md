@@ -13,5 +13,48 @@
 > Interested in **AI · Machine Learning · Mobile AI · Indoor Positioning**
 
 ---
+## 📝 Publications & Presentations
 
+| Date | Title | Venue | Authors |
+|---|---|---|---|
+| 2025 | **MagNavi: Geomagnetic Field-based Indoor Positioning**<br>지자계 기반 실내 측위 기법 | 2025년도 한국통신학회 추계종합학술발표회 | **Hyo Jeong Ryu**, Yun Ho Park, Su Min Yeom, Chan Ik Yun, Jae Hun Lee, Joon Kyu Lee, Young Deok Park |
+
+> **Keywords:** Geomagnetic Fingerprinting · MLP · Sensor Calibration · PDR · Indoor Positioning · Mobile Application
+
+---
+
+## 🏆 Awards & Competitions
+
+<!-- 추후 추가 -->
+
+---
+
+## 🛠️ Skills
+
+### Machine Learning & AI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+### Android & Mobile
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+
+### Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+---
+  
+## 💡 Git States
+  
 [![codemaru card for YEOUL0520](https://codemaru.bnbong.com/api/card.svg?github=YEOUL0520&boj=codemaru_demo&leetcode=codemaru_demo)](https://github.com/YEOUL0520)
